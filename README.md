@@ -24,7 +24,7 @@ Experience NOVA-MD, a feature-packed WhatsApp bot made in Kenya 🇰🇪. Develo
 1. Open the pair site
 2. Generate your Session ID
 3. Copy the session
-4. Paste it into `config.js`
+4. Paste it into `settings`
 5. Deploy on your preferred panel
 6. Enjoy 🚀
 
