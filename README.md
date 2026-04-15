@@ -15,7 +15,7 @@ Experience NOVA-MD, a feature-packed WhatsApp bot made in Kenya 🇰🇪. Develo
 
 ## 🌐 Pair Site (Session Generator)
 
-[![Pair Code](https://img.shields.io/badge/Pair%20Site-Click-blue?style=for-the-badge&logo=sourcegraph)](https://nova-md-pair-djim.onrender.com)
+[![Pair Code](https://img.shields.io/badge/Pair%20Site-Click-blue?style=for-the-badge&logo=sourcegraph)](https://nova-md-pair-hmu9.onrender.com)
 
 ---
 
